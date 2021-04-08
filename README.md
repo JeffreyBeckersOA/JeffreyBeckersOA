@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello people 👋
 
-<!--
-**JeffreyBeckersOA/JeffreyBeckersOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jeffrey Beckers. I'm curious about almost anything, but programming has a special place in my heart.  
+Thank you for taking time to view my GitHub profile 😉
 
-Here are some ideas to get you started:
+Here some info about me :
+- 💻 I'm currently working on a video game, made with Unity. Stay tuned ⏳
+- 📚 I’m currently learning Python in order to dive in ML and Data Engineering 
+- 💬 Talk to me about Japan or Canada, shows to binge watch on Netflix, and video games 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+![Jeffrey's Github Stats](https://github-readme-stats.vercel.app/api?username=JeffreyBeckersOA&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyBeckersOA&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
