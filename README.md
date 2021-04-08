@@ -1,6 +1,6 @@
 ## Hello people 👋
 <p align="center">
-<img src="https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-red-japan-travel-banner-image_255199.jpg">
+<img src="./img/banner-japan.jpg">
 </p>
 
 My name is Jeffrey Beckers. I'm curious about almost anything, but programming and Japan have a special place in my heart.  
